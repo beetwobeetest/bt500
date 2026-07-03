@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "format": "btob-scene-bundle",
+  "app": "btob-art-viewer",
+  "savedAt": "2026-07-03T10:46:47.161Z",
+  "theme": "light",
+  "projection": "perspective",
+  "viewMode": "3d",
+  "floorMode": "grid",
+  "showGrid": true,
+  "light": {
+    "angle": 135,
+    "height": 13.8,
+    "radius": 11.6,
+    "x": -9.079334390666641,
+    "y": 14.731740886510496,
+    "z": 8.489413185227264,
+    "intensity": 3,
+    "pointLightOn": false,
+    "rimLightOn": true,
+    "pointLightIntensity": 1.1,
+    "rimLightIntensity": 0.82
+  },
+  "cameraView": {
+    "projection": "perspective",
+    "perspectivePos": {
+      "x": -0.017048980839145744,
+      "y": 1.4814523053118083,
+      "z": 3.6875516398550987
+    },
+    "orthoPos": {
+      "x": 2.6625609418811,
+      "y": 3.396283946782786,
+      "z": 3.19507313025732
+    },
+    "target": {
+      "x": -0.45628442589699797,
+      "y": 1.0041637620986608,
+      "z": -0.06462845327860492
+    },
+    "ortho": {
+      "left": -4.919754601226994,
+      "right": 4.919754601226994,
+      "top": 2.8,
+      "bottom": -2.8
+    },
+    "perspectiveUp": {
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "orthoUp": {
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "sceneRollDeg": 0
+  },
+  "models": [
+    {
+      "name": "마스킹테이프 (수정).glb",
+      "ext": "GLB",
+      "visible": true,
+      "materialMode": "original",
+      "defaultMaterialMode": "original",
+      "materialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "defaultMaterialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "transform": {
+        "position": {
+          "x": 0.0041176764195034465,
+          "y": 0.007880663922356312,
+          "z": -0.009296284845867753
+        },
+        "rotation": {
+          "x": 0,
+          "y": -64.5,
+          "z": 22.5
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1,
+          "uniform": 1
+        }
+      },
+      "bundlePath": "models/마스킹테이프-수정-.glb",
+      "fileName": "마스킹테이프-수정-.glb"
+    },
+    {
+      "name": "bt500.glb",
+      "ext": "GLB",
+      "visible": true,
+      "materialMode": "original",
+      "defaultMaterialMode": "original",
+      "materialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "defaultMaterialSettings": {
+        "metalReflectivity": 1.15,
+        "glassTransmission": 0.9,
+        "glassOpacity": 0.92
+      },
+      "transform": {
+        "position": {
+          "x": -1.305,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1,
+          "uniform": 1
+        }
+      },
+      "bundlePath": "models/bt500.glb",
+      "fileName": "bt500.glb"
+    }
+  ]
+}
